@@ -1,4 +1,5 @@
-cryptoauthlib/app/
+cryptoauthlib/app/secure_boot/
+cryptoauthlib/app/ip_protecton/
 cryptoauthlib/docs/
 cryptoauthlib/python/
 cryptoauthlib/third_party/
